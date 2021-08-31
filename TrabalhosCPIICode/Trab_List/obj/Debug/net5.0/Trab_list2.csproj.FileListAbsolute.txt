@@ -1,0 +1,16 @@
+/home/kraddie/Área de Trabalho/Programacao/Trab_list2/bin/Debug/net5.0/Trab_list2
+/home/kraddie/Área de Trabalho/Programacao/Trab_list2/bin/Debug/net5.0/Trab_list2.deps.json
+/home/kraddie/Área de Trabalho/Programacao/Trab_list2/bin/Debug/net5.0/Trab_list2.runtimeconfig.json
+/home/kraddie/Área de Trabalho/Programacao/Trab_list2/bin/Debug/net5.0/Trab_list2.runtimeconfig.dev.json
+/home/kraddie/Área de Trabalho/Programacao/Trab_list2/bin/Debug/net5.0/Trab_list2.dll
+/home/kraddie/Área de Trabalho/Programacao/Trab_list2/bin/Debug/net5.0/ref/Trab_list2.dll
+/home/kraddie/Área de Trabalho/Programacao/Trab_list2/bin/Debug/net5.0/Trab_list2.pdb
+/home/kraddie/Área de Trabalho/Programacao/Trab_list2/obj/Debug/net5.0/Trab_list2.csproj.AssemblyReference.cache
+/home/kraddie/Área de Trabalho/Programacao/Trab_list2/obj/Debug/net5.0/Trab_list2.GeneratedMSBuildEditorConfig.editorconfig
+/home/kraddie/Área de Trabalho/Programacao/Trab_list2/obj/Debug/net5.0/Trab_list2.AssemblyInfoInputs.cache
+/home/kraddie/Área de Trabalho/Programacao/Trab_list2/obj/Debug/net5.0/Trab_list2.AssemblyInfo.cs
+/home/kraddie/Área de Trabalho/Programacao/Trab_list2/obj/Debug/net5.0/Trab_list2.csproj.CoreCompileInputs.cache
+/home/kraddie/Área de Trabalho/Programacao/Trab_list2/obj/Debug/net5.0/Trab_list2.dll
+/home/kraddie/Área de Trabalho/Programacao/Trab_list2/obj/Debug/net5.0/ref/Trab_list2.dll
+/home/kraddie/Área de Trabalho/Programacao/Trab_list2/obj/Debug/net5.0/Trab_list2.pdb
+/home/kraddie/Área de Trabalho/Programacao/Trab_list2/obj/Debug/net5.0/Trab_list2.genruntimeconfig.cache

@@ -8,19 +8,19 @@
     "net5.0": []
   },
   "packageFolders": {
-    "/root/.nuget/packages/": {}
+    "/home/kraddie/.nuget/packages/": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/home/kraddie/Área de Trabalho/Programacao/Trab_List/Trab_List.csproj",
-      "projectName": "Trab_List",
-      "projectPath": "/home/kraddie/Área de Trabalho/Programacao/Trab_List/Trab_List.csproj",
-      "packagesPath": "/root/.nuget/packages/",
-      "outputPath": "/home/kraddie/Área de Trabalho/Programacao/Trab_List/obj/",
+      "projectUniqueName": "/home/kraddie/Área de Trabalho/Programacao/Trab_list2/Trab_list2.csproj",
+      "projectName": "Trab_list2",
+      "projectPath": "/home/kraddie/Área de Trabalho/Programacao/Trab_list2/Trab_list2.csproj",
+      "packagesPath": "/home/kraddie/.nuget/packages/",
+      "outputPath": "/home/kraddie/Área de Trabalho/Programacao/Trab_list2/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "/root/.nuget/NuGet/NuGet.Config"
+        "/home/kraddie/.nuget/NuGet/NuGet.Config"
       ],
       "originalTargetFrameworks": [
         "net5.0"

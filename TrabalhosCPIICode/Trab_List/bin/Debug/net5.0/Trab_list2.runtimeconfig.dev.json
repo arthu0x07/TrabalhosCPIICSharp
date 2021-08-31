@@ -1,0 +1,8 @@
+{
+  "runtimeOptions": {
+    "additionalProbingPaths": [
+      "/home/kraddie/.dotnet/store/|arch|/|tfm|",
+      "/home/kraddie/.nuget/packages"
+    ]
+  }
+}
